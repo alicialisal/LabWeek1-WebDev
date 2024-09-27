@@ -10,7 +10,7 @@ Berikut adalah README untuk kedua kode tersebut dalam bahasa Indonesia:
 Program ini membuat sebuah piramida angka palindrom, di mana angka pada setiap baris adalah hasil kuadrat dari pola angka yang terus bertambah sesuai dengan iterasi baris. Program ini menerima input berupa batas angka dari pengguna dan kemudian mencetak piramida sesuai batas tersebut.
 
 #### Cara Menjalankan Program
-1. Buka browser dan akses file `palindrom_pyramid.html`.
+1. Buka browser dan akses file `soal1_Alicia.html`.
 2. Masukkan angka pada form (batas angka yang valid adalah antara 1 hingga 10).
 3. Klik tombol "Run" untuk menghasilkan piramida.
 4. Jika input valid, piramida palindrom akan tercetak sesuai dengan batas angka yang dimasukkan.
@@ -77,7 +77,7 @@ Jika Anda memilih `m = 2` dan `n = 2`, hasil gabungan dan sortirnya adalah:
 
 ### Catatan
 - Kedua program ini berjalan di browser, jadi pastikan Anda menjalankannya di lingkungan yang mendukung HTML dan PHP (seperti XAMPP atau server lokal yang bisa menjalankan file PHP).
-- Untuk menjalankan file **Sort & Merge Array**, simpan file sebagai `sort_merge_array.php` dan akses melalui server lokal karena menggunakan PHP untuk memproses data.
+- Untuk menjalankan file **soal2_Alicia.php**, simpan file sebagai `sort_merge_array.php` dan akses melalui server lokal karena menggunakan PHP untuk memproses data.
 
 --- 
 
